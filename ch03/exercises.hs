@@ -76,7 +76,7 @@ directions (a:b:[]) = []
 directions [] = []
 
 -- 12
-graham (x:xs)
+--graham (x:xs)
 
 
 
